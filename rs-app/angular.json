@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rs-app"
+    }
+  },
+  "defaultProject": "rs-app",
+  "cli": {
+    "analytics": "1b81c3be-a0d9-48f4-baf6-cc8598bbb2e3"
+  }
 }
